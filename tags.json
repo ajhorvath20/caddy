@@ -3,9 +3,9 @@
     {
       "name": "release",
       "version": "2.4.3",
-      "commit": "6a42cfe",
+      "commit": "ec6adb7",
       "upstream": "Releases",
-      "lastUpdated": "2021-07-30T20:16:57.541Z"
+      "lastUpdated": "2021-08-08T20:36:33.785Z"
     },
     {
       "name": "testing",
